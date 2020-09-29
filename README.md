@@ -10,3 +10,4 @@ https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6e
 
 ## Caster Mount
 
+<img src="images/Caster Mount.png" alt="Caster Mount" width="128" height="128">
