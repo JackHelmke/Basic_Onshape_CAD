@@ -23,3 +23,11 @@ Onshape Link: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e
 I am having a lot of fun with Onshape! It is cool to start making more advanced things, though I am a bit intimidated by the wheel.
 
 Onshape Doc: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/c696d5bce44de5e508c743fb
+
+## Caster Tire
+
+<img src="images/Caster Tire.png" alt="Caster Tire" width="128" height="128">
+
+That "Revolve" tool is like magic! It's awesome to get a small look at all of the crazy things you can do with Onshape. 
+
+Document: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/7ab34174e77ac61fae9f7070
