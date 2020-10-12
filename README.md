@@ -31,3 +31,11 @@ Onshape Doc: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2
 That "Revolve" tool is like magic! It's awesome to get a small look at all of the crazy things you can do with Onshape. 
 
 Document: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/7ab34174e77ac61fae9f7070
+
+## Caster Wheel
+
+<img src="images/Caster Wheel.png" alt="Caster Wheel" width="128" height="128">
+
+I was a little bit scared of this one, but it didn't end up being that bad. I'm excited to start actually putting this thing together!
+
+Document: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/eeafc942455569a6a76c8ddc
