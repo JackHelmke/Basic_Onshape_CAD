@@ -42,4 +42,8 @@ Document: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w
 
 ## Caster Axle, Collar, and Bearings
 
-<img src="images/Axle.png" alt="Axle" width="128" height="128"><img src="images/WheelWasher.png" alt="Wheel" width="128" height="128">
+<img src="images/Axle.png" alt="Axle" width="128" height="128"><img src="images/WheelWasher.png" alt="Wheel" width="128" height="128"><img src="images/Washer.png" alt="Washer" width="128" height="128">
+
+Again, I'm so ready to start the assembly. I can't wait to see all of this come together in one big thing!
+
+[Onshape](https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/e7a1acd2b5bfa23757ab1f50)
