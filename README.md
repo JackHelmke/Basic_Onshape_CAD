@@ -47,3 +47,19 @@ Document: https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w
 Again, I'm so ready to start the assembly. I can't wait to see all of this come together in one big thing!
 
 [Onshape](https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/e7a1acd2b5bfa23757ab1f50)
+
+## Caster Sub-Assembly
+
+<img src="images/SubAssembly.png" alt="Sub-Assembly" width="128" height="128">
+
+It was so fun to start putting things together! It is amazing how easy Onshape makes it to assemble your projects.
+
+[Onshape Link](https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/8794be0736bcc05e11dcb0e5)
+
+## Caster Final Assembly
+
+<img src="images/Final Assembly.png" alt="Final Assembly" width="128" height="128">
+
+I can't believe we are done with the caster! It was so cool to see all of the parts we have been working on all working together.
+
+[Onshape](https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/eea73beb2a465187bf4fca33)
