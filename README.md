@@ -63,3 +63,11 @@ It was so fun to start putting things together! It is amazing how easy Onshape m
 I can't believe we are done with the caster! It was so cool to see all of the parts we have been working on all working together.
 
 [Onshape](https://cvilleschools.onshape.com/documents/3e74296bc327d1fba3616e2e/w/395f1dc6eb1defe881c951d6/e/eea73beb2a465187bf4fca33)
+
+## Collaboration Challenge
+
+<img src="images/Collaboration.png" alt="Collaboration" width="128" height="128">
+
+It was hard to try and work as a group! We will hopefully get more comfortable with things like this as the year goes on.
+
+[Onshape Link](https://cvilleschools.onshape.com/documents/8b4f9bf4027a97fcdeb89980/w/0eef92a55e881997c797de99/e/f346c646641a7a25fbd39063)
