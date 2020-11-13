@@ -71,3 +71,11 @@ I can't believe we are done with the caster! It was so cool to see all of the pa
 It was hard to try and work as a group! We will hopefully get more comfortable with things like this as the year goes on.
 
 [Onshape Link](https://cvilleschools.onshape.com/documents/8b4f9bf4027a97fcdeb89980/w/0eef92a55e881997c797de99/e/f346c646641a7a25fbd39063)
+
+## Dorothy's Dowel Pins
+
+<img src="images/Dowel Pins.png" alt="Dowel Pin" width="200" height="128">
+
+Though I have never worked with any CAD softwares before Onshape, I can still tell that some of the stuff it is able to do really is a lot easier than with other systems. It's awesome how it has all of these features designed specifically to make it easy to understand and use, both for beginners and pros.
+
+[Onshape Link](https://cvilleschools.onshape.com/documents/aa124520eeae3c4206c83afd/w/40259e5b2f2977706b1e614f/e/d031436afefd3e502e65cd52)
